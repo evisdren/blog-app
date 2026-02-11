@@ -1,0 +1,27 @@
+{
+  "cli_version": "v0.4.2",
+  "checkpoint_id": "367c51376ebf",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "app/components/Footer.tsx",
+    "app/layout.tsx"
+  ],
+  "sessions": [
+    {
+      "metadata": "/36/7c51376ebf/0/metadata.json",
+      "transcript": "/36/7c51376ebf/0/full.jsonl",
+      "context": "/36/7c51376ebf/0/context.md",
+      "content_hash": "/36/7c51376ebf/0/content_hash.txt",
+      "prompt": "/36/7c51376ebf/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 58,
+    "cache_creation_tokens": 9727,
+    "cache_read_tokens": 154133,
+    "output_tokens": 751,
+    "api_call_count": 7
+  }
+}
